@@ -1,0 +1,1 @@
+﻿Static pages (home, privacy policy, terms of service) for the Gravin YouTube channel's private upload and statistics tool. They are plain HTML and CSS with no scripts or external requests, made to be hosted on GitHub Pages at the root of a user site.
